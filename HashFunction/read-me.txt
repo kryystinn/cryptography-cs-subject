@@ -1,0 +1,7 @@
+------
+MD5
+------
+
+Here it is given a program made with Java Swing. The code is divided in the interface part and the logic one. Here you can introduce an username and a password in the sign up window to register in the database, which automatically saves the data once pressed the button 'Sign up'.
+Then, if you have an account you can go to the log in window. If you introduce correctly the username and the password it will show up a message saying that you are able to access your account, and if not the system will tell you that you do not have an account.
+As well, if you try to sign up with an account that already exists, it will show up another message.
