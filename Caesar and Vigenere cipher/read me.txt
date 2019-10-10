@@ -1,0 +1,5 @@
+Here there are 2 cipher programs for encrypting or decrypting messages.
+
+The first one, the Caesar cipher works writing as input: the word you want to encrypt or decrypt, the key (a number that must be 0 or higher), and 'e', which stands for encrypting or 'd', which stands for decrypting (without the '').
+
+The other one, the Vigenère cipher, it works in a similar way. The input is: the word to encrypt or decrypt, the key (another word) and 'e' or 'd' like in the case before.
